@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-15 10:51:52 #1 store] 
+Database 'C:\Users\saeze\Downloads\Rides24-master\src\main\resources\rides.temp' is opened by 18348@LAPTOP-VVQ3CHDH
+
+[2025-04-15 10:51:53 #2 type.registry] 
+New type domain.Driver
+
+[2025-04-15 10:51:53 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-15 10:51:53 #4 type.registry] 
+New type domain.Ride
+
+[2025-04-15 10:51:53 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-15 10:51:53 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-04-15 10:51:53 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+

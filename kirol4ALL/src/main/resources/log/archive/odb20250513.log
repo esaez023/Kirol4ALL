@@ -1,0 +1,424 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-13 10:53:01 #1 store] 
+Database 'C:\Users\saeze\eclipse-workspace\kirol4ALL\src\main\resources\rides.temp' is opened by 52064@LAPTOP-VVQ3CHDH
+
+[2025-05-13 10:53:01 #2 type.registry] 
+New type domain.Room
+
+[2025-05-13 10:53:01 #3 type] 
+Type domain.Room is not enhanced.
+
+[2025-05-13 10:53:02 #4 type.registry] 
+New type domain.User
+
+[2025-05-13 10:53:02 #5 type.registry] 
+New type domain.Member
+
+[2025-05-13 10:53:02 #6 type] 
+Type domain.User is not enhanced.
+
+[2025-05-13 10:53:02 #7 type] 
+Type domain.Member is not enhanced.
+
+[2025-05-13 10:53:02 #8 type.registry] 
+New type domain.Manager
+
+[2025-05-13 10:53:02 #9 type] 
+Type domain.Manager is not enhanced.
+
+[2025-05-13 10:53:02 #10 type.registry] 
+New type domain.Activity
+
+[2025-05-13 10:53:02 #11 type] 
+Type domain.Activity is not enhanced.
+
+[2025-05-13 10:53:02 #12 type.registry] 
+New type domain.Session
+
+[2025-05-13 10:53:02 #13 type] 
+Type domain.Session is not enhanced.
+
+[2025-05-13 10:53:02 #14 type.registry] 
+New type domain.Reservation
+
+[2025-05-13 10:53:02 #15 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-05-13 10:53:02 #16 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-13 10:53:02 #17 type.registry] 
+New type java.util.ArrayList<domain.Reservation>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-13 11:25:32 #1 store] 
+Database 'C:\Users\saeze\eclipse-workspace\kirol4ALL\src\main\resources\rides.temp' is opened by 54420@LAPTOP-VVQ3CHDH
+
+[2025-05-13 11:25:32 #2 type.registry] 
+New type domain.Room
+
+[2025-05-13 11:25:32 #3 type] 
+Type domain.Room is not enhanced.
+
+[2025-05-13 11:25:32 #4 type.registry] 
+New type domain.User
+
+[2025-05-13 11:25:32 #5 type.registry] 
+New type domain.Member
+
+[2025-05-13 11:25:32 #6 type] 
+Type domain.User is not enhanced.
+
+[2025-05-13 11:25:32 #7 type] 
+Type domain.Member is not enhanced.
+
+[2025-05-13 11:25:32 #8 type.registry] 
+New type domain.Manager
+
+[2025-05-13 11:25:32 #9 type] 
+Type domain.Manager is not enhanced.
+
+[2025-05-13 11:25:32 #10 type.registry] 
+New type domain.Activity
+
+[2025-05-13 11:25:32 #11 type] 
+Type domain.Activity is not enhanced.
+
+[2025-05-13 11:25:32 #12 type.registry] 
+New type domain.Session
+
+[2025-05-13 11:25:32 #13 type] 
+Type domain.Session is not enhanced.
+
+[2025-05-13 11:25:32 #14 type.registry] 
+New type domain.Reservation
+
+[2025-05-13 11:25:32 #15 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-05-13 11:25:32 #16 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-13 11:25:32 #17 type.registry] 
+New type java.util.ArrayList<domain.Reservation>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-13 11:31:43 #1 store] 
+Database 'C:\Users\saeze\eclipse-workspace\kirol4ALL\src\main\resources\rides.temp' is opened by 55548@LAPTOP-VVQ3CHDH
+
+[2025-05-13 11:31:44 #2 type.registry] 
+New type domain.Room
+
+[2025-05-13 11:31:44 #3 type] 
+Type domain.Room is not enhanced.
+
+[2025-05-13 11:31:44 #4 type.registry] 
+New type domain.User
+
+[2025-05-13 11:31:44 #5 type.registry] 
+New type domain.Member
+
+[2025-05-13 11:31:44 #6 type] 
+Type domain.User is not enhanced.
+
+[2025-05-13 11:31:44 #7 type] 
+Type domain.Member is not enhanced.
+
+[2025-05-13 11:31:44 #8 type.registry] 
+New type domain.Manager
+
+[2025-05-13 11:31:44 #9 type] 
+Type domain.Manager is not enhanced.
+
+[2025-05-13 11:31:44 #10 type.registry] 
+New type domain.Activity
+
+[2025-05-13 11:31:44 #11 type] 
+Type domain.Activity is not enhanced.
+
+[2025-05-13 11:31:44 #12 type.registry] 
+New type domain.Session
+
+[2025-05-13 11:31:44 #13 type] 
+Type domain.Session is not enhanced.
+
+[2025-05-13 11:31:44 #14 type.registry] 
+New type domain.Reservation
+
+[2025-05-13 11:31:44 #15 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-05-13 11:31:44 #16 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-13 11:31:44 #17 type.registry] 
+New type java.util.ArrayList<domain.Reservation>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-13 11:44:47 #1 store] 
+Database 'C:\Users\saeze\eclipse-workspace\kirol4ALL\src\main\resources\rides.temp' is opened by 52076@LAPTOP-VVQ3CHDH
+
+[2025-05-13 11:44:48 #2 type.registry] 
+New type domain.Room
+
+[2025-05-13 11:44:48 #3 type] 
+Type domain.Room is not enhanced.
+
+[2025-05-13 11:44:48 #4 type.registry] 
+New type domain.User
+
+[2025-05-13 11:44:48 #5 type.registry] 
+New type domain.Member
+
+[2025-05-13 11:44:48 #6 type] 
+Type domain.User is not enhanced.
+
+[2025-05-13 11:44:48 #7 type] 
+Type domain.Member is not enhanced.
+
+[2025-05-13 11:44:48 #8 type.registry] 
+New type domain.Manager
+
+[2025-05-13 11:44:48 #9 type] 
+Type domain.Manager is not enhanced.
+
+[2025-05-13 11:44:48 #10 type.registry] 
+New type domain.Activity
+
+[2025-05-13 11:44:48 #11 type] 
+Type domain.Activity is not enhanced.
+
+[2025-05-13 11:44:48 #12 type.registry] 
+New type domain.Session
+
+[2025-05-13 11:44:48 #13 type] 
+Type domain.Session is not enhanced.
+
+[2025-05-13 11:44:48 #14 type.registry] 
+New type domain.Reservation
+
+[2025-05-13 11:44:48 #15 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-05-13 11:44:48 #16 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-13 11:44:48 #17 type.registry] 
+New type java.util.ArrayList<domain.Reservation>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-13 11:55:09 #1 store] 
+Database 'C:\Users\saeze\eclipse-workspace\kirol4ALL\src\main\resources\rides.temp' is opened by 54588@LAPTOP-VVQ3CHDH
+
+[2025-05-13 11:55:09 #2 type.registry] 
+New type domain.Room
+
+[2025-05-13 11:55:09 #3 type] 
+Type domain.Room is not enhanced.
+
+[2025-05-13 11:55:09 #4 type.registry] 
+New type domain.User
+
+[2025-05-13 11:55:09 #5 type.registry] 
+New type domain.Member
+
+[2025-05-13 11:55:09 #6 type] 
+Type domain.User is not enhanced.
+
+[2025-05-13 11:55:09 #7 type] 
+Type domain.Member is not enhanced.
+
+[2025-05-13 11:55:09 #8 type.registry] 
+New type domain.Manager
+
+[2025-05-13 11:55:09 #9 type] 
+Type domain.Manager is not enhanced.
+
+[2025-05-13 11:55:09 #10 type.registry] 
+New type domain.Activity
+
+[2025-05-13 11:55:09 #11 type] 
+Type domain.Activity is not enhanced.
+
+[2025-05-13 11:55:09 #12 type.registry] 
+New type domain.Session
+
+[2025-05-13 11:55:09 #13 type] 
+Type domain.Session is not enhanced.
+
+[2025-05-13 11:55:09 #14 type.registry] 
+New type domain.Reservation
+
+[2025-05-13 11:55:09 #15 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-05-13 11:55:09 #16 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-13 11:55:09 #17 type.registry] 
+New type java.util.ArrayList<domain.Reservation>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-13 17:39:24 #1 store] 
+Database 'C:\Users\saeze\eclipse-workspace\kirol4ALL\src\main\resources\rides.temp' is opened by 55572@LAPTOP-VVQ3CHDH
+
+[2025-05-13 17:39:25 #2 type.registry] 
+New type domain.Room
+
+[2025-05-13 17:39:25 #3 type] 
+Type domain.Room is not enhanced.
+
+[2025-05-13 17:39:25 #4 type.registry] 
+New type domain.User
+
+[2025-05-13 17:39:25 #5 type.registry] 
+New type domain.Member
+
+[2025-05-13 17:39:25 #6 type] 
+Type domain.User is not enhanced.
+
+[2025-05-13 17:39:25 #7 type] 
+Type domain.Member is not enhanced.
+
+[2025-05-13 17:39:25 #8 type.registry] 
+New type domain.Manager
+
+[2025-05-13 17:39:25 #9 type] 
+Type domain.Manager is not enhanced.
+
+[2025-05-13 17:39:25 #10 type.registry] 
+New type domain.Activity
+
+[2025-05-13 17:39:25 #11 type] 
+Type domain.Activity is not enhanced.
+
+[2025-05-13 17:39:25 #12 type.registry] 
+New type domain.Session
+
+[2025-05-13 17:39:25 #13 type] 
+Type domain.Session is not enhanced.
+
+[2025-05-13 17:39:25 #14 type.registry] 
+New type domain.Reservation
+
+[2025-05-13 17:39:25 #15 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-05-13 17:39:25 #16 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-13 17:39:25 #17 type.registry] 
+New type java.util.ArrayList<domain.Reservation>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-13 19:09:14 #1 store] 
+Database 'C:\Users\saeze\eclipse-workspace\kirol4ALL\src\main\resources\rides.temp' is opened by 59012@LAPTOP-VVQ3CHDH
+
+[2025-05-13 19:09:15 #2 type.registry] 
+New type domain.Room
+
+[2025-05-13 19:09:15 #3 type] 
+Type domain.Room is not enhanced.
+
+[2025-05-13 19:09:15 #4 type.registry] 
+New type domain.User
+
+[2025-05-13 19:09:15 #5 type.registry] 
+New type domain.Member
+
+[2025-05-13 19:09:15 #6 type] 
+Type domain.User is not enhanced.
+
+[2025-05-13 19:09:15 #7 type] 
+Type domain.Member is not enhanced.
+
+[2025-05-13 19:09:15 #8 type.registry] 
+New type domain.Manager
+
+[2025-05-13 19:09:15 #9 type] 
+Type domain.Manager is not enhanced.
+
+[2025-05-13 19:09:15 #10 type.registry] 
+New type domain.Activity
+
+[2025-05-13 19:09:15 #11 type] 
+Type domain.Activity is not enhanced.
+
+[2025-05-13 19:09:15 #12 type.registry] 
+New type domain.Session
+
+[2025-05-13 19:09:15 #13 type] 
+Type domain.Session is not enhanced.
+
+[2025-05-13 19:09:15 #14 type.registry] 
+New type domain.Reservation
+
+[2025-05-13 19:09:15 #15 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-05-13 19:09:15 #16 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-13 19:09:15 #17 type.registry] 
+New type java.util.ArrayList<domain.Reservation>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-13 19:18:06 #1 store] 
+Database 'C:\Users\saeze\eclipse-workspace\kirol4ALL\src\main\resources\rides.temp' is opened by 59452@LAPTOP-VVQ3CHDH
+
+[2025-05-13 19:18:07 #2 type.registry] 
+New type domain.Room
+
+[2025-05-13 19:18:07 #3 type] 
+Type domain.Room is not enhanced.
+
+[2025-05-13 19:18:07 #4 type.registry] 
+New type domain.User
+
+[2025-05-13 19:18:07 #5 type.registry] 
+New type domain.Member
+
+[2025-05-13 19:18:07 #6 type] 
+Type domain.User is not enhanced.
+
+[2025-05-13 19:18:07 #7 type] 
+Type domain.Member is not enhanced.
+
+[2025-05-13 19:18:07 #8 type.registry] 
+New type domain.Manager
+
+[2025-05-13 19:18:07 #9 type] 
+Type domain.Manager is not enhanced.
+
+[2025-05-13 19:18:07 #10 type.registry] 
+New type domain.Activity
+
+[2025-05-13 19:18:07 #11 type] 
+Type domain.Activity is not enhanced.
+
+[2025-05-13 19:18:07 #12 type.registry] 
+New type domain.Session
+
+[2025-05-13 19:18:07 #13 type] 
+Type domain.Session is not enhanced.
+
+[2025-05-13 19:18:07 #14 type.registry] 
+New type domain.Reservation
+
+[2025-05-13 19:18:07 #15 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-05-13 19:18:07 #16 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-13 19:18:07 #17 type.registry] 
+New type java.util.ArrayList<domain.Reservation>
+
