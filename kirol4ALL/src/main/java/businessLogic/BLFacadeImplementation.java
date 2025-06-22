@@ -131,10 +131,11 @@ public class BLFacadeImplementation implements BLFacade {
 	}
 
 	@Override
-	public void createMember(Member member) {
+	public Member createMember(Member member) {
 		dbManager.open();
 		dbManager.createMember(member);
 		dbManager.close();
+		return member;
 	}
 
 	@Override

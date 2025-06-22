@@ -42,7 +42,7 @@ public interface BLFacade  {
 
 	@WebMethod public List<User> getAllUsers();
 
-	@WebMethod public void createMember(Member member);
+	@WebMethod public Member createMember(Member member);
 
 	@WebMethod public void createSession(Session session);
 

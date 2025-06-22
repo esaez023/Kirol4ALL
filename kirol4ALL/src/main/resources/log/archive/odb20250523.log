@@ -1,0 +1,159 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-23 12:55:41 #1 store] 
+Database 'C:\Users\saeze\git\Kirol4ALLrepo\kirol4ALL\src\main\resources\rides.temp' is opened by 20048@LAPTOP-VVQ3CHDH
+
+[2025-05-23 12:55:42 #2 type.registry] 
+New type domain.Room
+
+[2025-05-23 12:55:42 #3 type] 
+Type domain.Room is not enhanced.
+
+[2025-05-23 12:55:42 #4 type.registry] 
+New type domain.User
+
+[2025-05-23 12:55:42 #5 type.registry] 
+New type domain.Member
+
+[2025-05-23 12:55:42 #6 type] 
+Type domain.User is not enhanced.
+
+[2025-05-23 12:55:42 #7 type] 
+Type domain.Member is not enhanced.
+
+[2025-05-23 12:55:42 #8 type.registry] 
+New type domain.Manager
+
+[2025-05-23 12:55:42 #9 type] 
+Type domain.Manager is not enhanced.
+
+[2025-05-23 12:55:42 #10 type.registry] 
+New type domain.Activity
+
+[2025-05-23 12:55:42 #11 type] 
+Type domain.Activity is not enhanced.
+
+[2025-05-23 12:55:42 #12 type.registry] 
+New type domain.Session
+
+[2025-05-23 12:55:42 #13 type] 
+Type domain.Session is not enhanced.
+
+[2025-05-23 12:55:42 #14 type.registry] 
+New type domain.Reservation
+
+[2025-05-23 12:55:42 #15 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-05-23 12:55:42 #16 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-23 12:55:42 #17 type.registry] 
+New type java.util.ArrayList<domain.Reservation>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-23 12:59:40 #1 store] 
+Database 'C:\Users\saeze\git\Kirol4ALLrepo\kirol4ALL\src\main\resources\rides.temp' is opened by 26276@LAPTOP-VVQ3CHDH
+
+[2025-05-23 12:59:40 #2 type.registry] 
+New type domain.Room
+
+[2025-05-23 12:59:40 #3 type] 
+Type domain.Room is not enhanced.
+
+[2025-05-23 12:59:40 #4 type.registry] 
+New type domain.User
+
+[2025-05-23 12:59:40 #5 type.registry] 
+New type domain.Member
+
+[2025-05-23 12:59:40 #6 type] 
+Type domain.User is not enhanced.
+
+[2025-05-23 12:59:40 #7 type] 
+Type domain.Member is not enhanced.
+
+[2025-05-23 12:59:40 #8 type.registry] 
+New type domain.Manager
+
+[2025-05-23 12:59:40 #9 type] 
+Type domain.Manager is not enhanced.
+
+[2025-05-23 12:59:40 #10 type.registry] 
+New type domain.Activity
+
+[2025-05-23 12:59:40 #11 type] 
+Type domain.Activity is not enhanced.
+
+[2025-05-23 12:59:40 #12 type.registry] 
+New type domain.Session
+
+[2025-05-23 12:59:40 #13 type] 
+Type domain.Session is not enhanced.
+
+[2025-05-23 12:59:40 #14 type.registry] 
+New type domain.Reservation
+
+[2025-05-23 12:59:40 #15 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-05-23 12:59:41 #16 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-23 12:59:41 #17 type.registry] 
+New type java.util.ArrayList<domain.Reservation>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-23 13:01:19 #1 store] 
+Database 'C:\Users\saeze\git\Kirol4ALLrepo\kirol4ALL\src\main\resources\rides.temp' is opened by 28436@LAPTOP-VVQ3CHDH
+
+[2025-05-23 13:01:19 #2 type.registry] 
+New type domain.Room
+
+[2025-05-23 13:01:19 #3 type] 
+Type domain.Room is not enhanced.
+
+[2025-05-23 13:01:19 #4 type.registry] 
+New type domain.User
+
+[2025-05-23 13:01:19 #5 type.registry] 
+New type domain.Member
+
+[2025-05-23 13:01:19 #6 type] 
+Type domain.User is not enhanced.
+
+[2025-05-23 13:01:19 #7 type] 
+Type domain.Member is not enhanced.
+
+[2025-05-23 13:01:19 #8 type.registry] 
+New type domain.Manager
+
+[2025-05-23 13:01:19 #9 type] 
+Type domain.Manager is not enhanced.
+
+[2025-05-23 13:01:19 #10 type.registry] 
+New type domain.Activity
+
+[2025-05-23 13:01:19 #11 type] 
+Type domain.Activity is not enhanced.
+
+[2025-05-23 13:01:19 #12 type.registry] 
+New type domain.Session
+
+[2025-05-23 13:01:19 #13 type] 
+Type domain.Session is not enhanced.
+
+[2025-05-23 13:01:19 #14 type.registry] 
+New type domain.Reservation
+
+[2025-05-23 13:01:19 #15 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-05-23 13:01:20 #16 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-23 13:01:20 #17 type.registry] 
+New type java.util.ArrayList<domain.Reservation>
+
