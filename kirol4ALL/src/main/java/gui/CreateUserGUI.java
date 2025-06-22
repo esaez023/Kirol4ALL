@@ -118,7 +118,7 @@ public class CreateUserGUI extends JFrame {
 		createButton.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				// Existing action logic
+				createUsers(); 
 			}
 		});
 
